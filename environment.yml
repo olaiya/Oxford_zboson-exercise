@@ -1,0 +1,9 @@
+name: oxford_test
+channels:
+  - defaults
+  - conda-forge
+  - atonarp
+dependencies:
+  - uproot
+  - hist
+  - jupyter
